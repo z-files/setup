@@ -17,7 +17,7 @@ vim.api.nvim_create_autocmd("BufEnter", {
 vim.api.nvim_create_autocmd("BufEnter", {
   pattern = "*.rs",
   callback = function()
-    vim.keymap.set("n", "<leader>r", ":w<cr>:RustRun<cr>")
+    vim.keymap.set("n", "<leader>r", ":w<cr>:RustLsp run <cr>")
     vim.keymap.set("n", "<leader>t", ":w<cr>:RustTest .<cr>")
   end,
 })
