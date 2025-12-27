@@ -3,4 +3,5 @@
 -- Add any additional keymaps here
 vim.keymap.set("i", "jj", "<Esc>")
 vim.keymap.set("n", "<leader>n", ":NvimTreeToggle<cr>")
+vim.keymap.set("n", "<leader>A", "<Cmd>AerialToggle<cr>")
 vim.keymap.set("n", "<leader>d", ":bd<cr>")
