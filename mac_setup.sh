@@ -16,6 +16,7 @@ brew install htop
 brew install k9s
 brew install teleport
 brew install tig
+brew install socat
 
 # On macOS and Linux.
 curl -LsSf https://astral.sh/uv/install.sh | sh
