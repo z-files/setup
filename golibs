@@ -1,0 +1,7 @@
+# Create state machines and lightweight state machine-based workflows directly in Go code:
+https://github.com/qmuntal/stateless
+
+# Inspects source code for security problems by scanning the Go AST and SSA code representation.
+https://github.com/securego/gosec
+
+
