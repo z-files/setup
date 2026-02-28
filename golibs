@@ -4,4 +4,6 @@ https://github.com/qmuntal/stateless
 # Inspects source code for security problems by scanning the Go AST and SSA code representation.
 https://github.com/securego/gosec
 
+go get github.com/labstack/echo/v5
+
 
