@@ -3,3 +3,5 @@ go install github.com/wader/fq@latest
 go install github.com/jesseduffield/lazygit@latest
 go install github.com/air-verse/air@latest
 go install github.com/pranshuparmar/witr/cmd/witr@latest
+go install github.com/loov/goda@latest
+go install github.com/aarzilli/whydeadcode@latest
