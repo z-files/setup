@@ -1,0 +1,4 @@
+aws_region  = "us-east-1"
+name_prefix = "network"
+vpc_a_cidr  = "10.1.0.0/16"
+vpc_b_cidr  = "10.2.0.0/16"

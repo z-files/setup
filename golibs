@@ -5,6 +5,7 @@ https://github.com/qmuntal/stateless
 https://github.com/securego/gosec
 
 # Intercept SQL traffic
-https://github.com/mickamy/sql-tap
+go get github.com/mickamy/sql-tap
+go get github.com/labstack/echo/v5
 
 
